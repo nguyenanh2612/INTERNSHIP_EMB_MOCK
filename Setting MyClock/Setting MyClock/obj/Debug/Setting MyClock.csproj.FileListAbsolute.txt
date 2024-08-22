@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\bin\Debug\Setting MyClock.exe.config
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\bin\Debug\Setting MyClock.exe
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\bin\Debug\Setting MyClock.pdb
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting MyClock.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting_MyClock.Form1.resources
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting_MyClock.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting MyClock.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting MyClock.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting MyClock.exe
+C:\Users\ADMIN\source\repos\Setting MyClock\Setting MyClock\obj\Debug\Setting MyClock.pdb
